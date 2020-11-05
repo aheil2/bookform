@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9ce769a-6577-416e-970a-b737fb480697" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/bookform.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bookform.iml" afterDir="false" />
+    <list default="true" id="e9ce769a-6577-416e-970a-b737fb480697" name="Default Changelist" comment="added a grand total row and calculation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +61,35 @@
       <option name="presentableId" value="Default" />
       <updated>1604374956323</updated>
       <workItem from="1604374957356" duration="2459000" />
-      <workItem from="1604542849772" duration="1511000" />
+      <workItem from="1604542849772" duration="1821000" />
     </task>
+    <task id="LOCAL-00001" summary="added a grand total row and calculation">
+      <created>1604544396796</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604544396796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added a grand total row and calculation" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a grand total row and calculation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604544219716">
@@ -65,5 +104,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="715" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1080.-387.1080.1880@0.0.1920.1040" timestamp="1604377205149" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604544401449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1080.-387.1080.1880@0.0.1920.1040" timestamp="1604544401449" />
   </component>
 </project>
